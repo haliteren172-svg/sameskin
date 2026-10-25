@@ -1,0 +1,336 @@
+[
+  {
+    "id": "clear-start-gel",
+    "name": "Clear Start 2% BHA Gel Cleanser",
+    "brand": "Northline",
+    "category": "cleanser",
+    "price": 14,
+    "targets": [
+      "acne",
+      "oiliness",
+      "pore"
+    ],
+    "ingredients": [
+      "Salicylic acid 2%",
+      "Zinc PCA",
+      "Green tea"
+    ],
+    "blurb": "A low-foam gel that clears congestion without stripping.",
+    "art": {
+      "from": "#0ea5e9",
+      "to": "#2563eb",
+      "glyph": "🫧"
+    }
+  },
+  {
+    "id": "calm-barrier-cream",
+    "name": "Calm Barrier Repair Cream",
+    "brand": "Haven",
+    "category": "moisturizer",
+    "price": 28,
+    "targets": [
+      "redness",
+      "moisture",
+      "firmness"
+    ],
+    "ingredients": [
+      "Ceramide NP",
+      "Panthenol",
+      "Centella asiatica",
+      "Squalane"
+    ],
+    "blurb": "Thick, fragrance-free cream for skin that stings at everything.",
+    "art": {
+      "from": "#f9a8d4",
+      "to": "#f43f5e",
+      "glyph": "🛡️"
+    }
+  },
+  {
+    "id": "niacinamide-10",
+    "name": "Niacinamide 10% + Zinc Serum",
+    "brand": "Formula Lab",
+    "category": "serum",
+    "price": 9,
+    "targets": [
+      "pore",
+      "oiliness",
+      "redness",
+      "texture"
+    ],
+    "ingredients": [
+      "Niacinamide 10%",
+      "Zinc PCA 1%"
+    ],
+    "blurb": "The internet's favourite pore-minimising serum.",
+    "art": {
+      "from": "#a7f3d0",
+      "to": "#059669",
+      "glyph": "🧪"
+    }
+  },
+  {
+    "id": "retinal-02",
+    "name": "Retinal 0.2% Night Serum",
+    "brand": "Meridian",
+    "category": "treatment",
+    "price": 42,
+    "targets": [
+      "wrinkle",
+      "firmness",
+      "texture",
+      "age_spot"
+    ],
+    "ingredients": [
+      "Retinaldehyde 0.2%",
+      "Bakuchiol",
+      "Peptide complex"
+    ],
+    "blurb": "Encapsulated retinal for lines and texture, faster than retinol.",
+    "art": {
+      "from": "#c4b5fd",
+      "to": "#6d28d9",
+      "glyph": "🌙"
+    }
+  },
+  {
+    "id": "vit-c-15",
+    "name": "Vitamin C 15% Brightening Serum",
+    "brand": "Meridian",
+    "category": "serum",
+    "price": 38,
+    "targets": [
+      "radiance",
+      "age_spot",
+      "firmness"
+    ],
+    "ingredients": [
+      "L-ascorbic acid 15%",
+      "Ferulic acid",
+      "Vitamin E"
+    ],
+    "blurb": "Morning antioxidant serum for dull, uneven skin.",
+    "art": {
+      "from": "#fde68a",
+      "to": "#f59e0b",
+      "glyph": "🍊"
+    }
+  },
+  {
+    "id": "hydra-ha-serum",
+    "name": "Hydra 5-Weight Hyaluronic Serum",
+    "brand": "Haven",
+    "category": "serum",
+    "price": 22,
+    "targets": [
+      "moisture",
+      "radiance",
+      "texture"
+    ],
+    "ingredients": [
+      "Hyaluronic acid (5 weights)",
+      "Glycerin",
+      "Beta-glucan"
+    ],
+    "blurb": "Water-light hydration that layers under anything.",
+    "art": {
+      "from": "#bae6fd",
+      "to": "#0284c7",
+      "glyph": "💧"
+    }
+  },
+  {
+    "id": "azelaic-10",
+    "name": "Azelaic Acid 10% Treatment",
+    "brand": "Formula Lab",
+    "category": "treatment",
+    "price": 16,
+    "targets": [
+      "redness",
+      "acne",
+      "age_spot",
+      "texture"
+    ],
+    "ingredients": [
+      "Azelaic acid 10%",
+      "Allantoin"
+    ],
+    "blurb": "The quiet multitasker for redness, bumps and marks.",
+    "art": {
+      "from": "#fecaca",
+      "to": "#dc2626",
+      "glyph": "🌿"
+    }
+  },
+  {
+    "id": "spf50-fluid",
+    "name": "Invisible SPF50+ Fluid",
+    "brand": "Northline",
+    "category": "sunscreen",
+    "price": 19,
+    "targets": [
+      "age_spot",
+      "wrinkle",
+      "redness"
+    ],
+    "ingredients": [
+      "Uvinul A Plus",
+      "Tinosorb S",
+      "Niacinamide"
+    ],
+    "blurb": "No white cast, no pilling, no excuses.",
+    "art": {
+      "from": "#fef3c7",
+      "to": "#fb923c",
+      "glyph": "☀️"
+    }
+  },
+  {
+    "id": "caffeine-eye",
+    "name": "Caffeine 5% Eye Serum",
+    "brand": "Formula Lab",
+    "category": "eye",
+    "price": 11,
+    "targets": [
+      "dark_circle",
+      "eye_bag",
+      "tear_trough"
+    ],
+    "ingredients": [
+      "Caffeine 5%",
+      "EGCG",
+      "Hyaluronic acid"
+    ],
+    "blurb": "Morning de-puffing for the under-eye area.",
+    "art": {
+      "from": "#d9f99d",
+      "to": "#65a30d",
+      "glyph": "👁️"
+    }
+  },
+  {
+    "id": "peptide-firm-cream",
+    "name": "Peptide Firming Night Cream",
+    "brand": "Meridian",
+    "category": "moisturizer",
+    "price": 54,
+    "targets": [
+      "firmness",
+      "wrinkle",
+      "droopy_upper_eyelid",
+      "droopy_lower_eyelid"
+    ],
+    "ingredients": [
+      "Matrixyl 3000",
+      "Argireline",
+      "Shea butter",
+      "Ceramides"
+    ],
+    "blurb": "A rich overnight cream for loss of bounce.",
+    "art": {
+      "from": "#fbcfe8",
+      "to": "#be185d",
+      "glyph": "🪷"
+    }
+  },
+  {
+    "id": "aha-pha-toner",
+    "name": "Glow AHA/PHA Resurfacing Toner",
+    "brand": "Northline",
+    "category": "treatment",
+    "price": 17,
+    "targets": [
+      "texture",
+      "radiance",
+      "pore",
+      "age_spot"
+    ],
+    "ingredients": [
+      "Glycolic acid 5%",
+      "Gluconolactone",
+      "Aloe"
+    ],
+    "blurb": "Nightly exfoliating toner for smoother, brighter skin.",
+    "art": {
+      "from": "#fcd34d",
+      "to": "#d97706",
+      "glyph": "✨"
+    }
+  },
+  {
+    "id": "cica-gel-moist",
+    "name": "Cica Water Gel Moisturiser",
+    "brand": "Haven",
+    "category": "moisturizer",
+    "price": 21,
+    "targets": [
+      "moisture",
+      "redness",
+      "oiliness"
+    ],
+    "ingredients": [
+      "Centella asiatica",
+      "Madecassoside",
+      "Hyaluronic acid"
+    ],
+    "blurb": "Oil-free gel hydration for skin that gets shiny and sensitive.",
+    "art": {
+      "from": "#bbf7d0",
+      "to": "#16a34a",
+      "glyph": "🍃"
+    }
+  },
+  {
+    "id": "tinted-skin-serum",
+    "name": "Skin Tint Serum Foundation",
+    "brand": "Haven",
+    "category": "makeup",
+    "price": 32,
+    "targets": [
+      "redness",
+      "radiance",
+      "moisture"
+    ],
+    "ingredients": [
+      "Niacinamide",
+      "Squalane",
+      "Mineral pigments"
+    ],
+    "blurb": "Sheer, skin-like coverage that evens redness without masking.",
+    "art": {
+      "from": "#f5d0a9",
+      "to": "#b45309",
+      "glyph": "🎨"
+    },
+    "vto": {
+      "category": "foundation",
+      "color": "#d9a57a"
+    }
+  },
+  {
+    "id": "lip-tint-rose",
+    "name": "Hydrating Lip Tint, Rosewood",
+    "brand": "Northline",
+    "category": "makeup",
+    "price": 15,
+    "targets": [
+      "moisture"
+    ],
+    "ingredients": [
+      "Jojoba oil",
+      "Vitamin E",
+      "Red 7 Lake"
+    ],
+    "blurb": "Balm comfort with a soft rosewood stain.",
+    "art": {
+      "from": "#fda4af",
+      "to": "#be123c",
+      "glyph": "💄"
+    },
+    "vto": {
+      "category": "lip_color",
+      "color": "#b4565f",
+      "texture": "satin"
+    }
+  }
+]
