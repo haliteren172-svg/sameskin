@@ -4,7 +4,7 @@
 
 **Track:** Skin AI (with an eCommerce bridge) · **YouCam APIs:** AI Skin Analysis HD (core), AI Makeup Virtual Try-On (makeup products) · **Hackathon:** YouCam API Skin AI & eCommerce VTO Hackathon, round 2
 
-**Demo video (2:55):** https://youtu.be/e14wvcrRMLg · **Devpost:** https://devpost.com/software/1509881
+**Demo video (2:55):** https://youtu.be/VBO44GROSew · **Devpost:** https://devpost.com/software/1509881
 
 ![Home](docs/screens/01-home.png)
 
