@@ -8,6 +8,8 @@
 
 **Built with:** YouCam AI Skin Analysis API (HD), YouCam AI Makeup Virtual Try-On API, TypeScript, React, Vite, Express, Claude (tool-use agent), Vitest
 
+**Demo video:** https://youtu.be/e14wvcrRMLg · **Repo:** https://github.com/haliteren172-svg/sameskin · **Devpost project:** https://devpost.com/software/1509881
+
 ---
 
 ## Inspiration

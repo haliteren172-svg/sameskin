@@ -107,7 +107,7 @@ p { line-height: 1.55; margin: 0; }
 .dropzone input { display: none; }
 .preview { position: relative; border-radius: var(--radius); overflow: hidden; background: #111; aspect-ratio: 3 / 4; max-height: 520px; }
 .preview img, .preview video { width: 100%; height: 100%; object-fit: cover; }
-.preview .overlay { position: absolute; inset: 0; mix-blend-mode: normal; pointer-events: none; opacity: 0.9; }
+.preview .overlay { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; pointer-events: none; opacity: 0.95; }
 .scan-line { position: absolute; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, var(--accent-2), transparent); animation: scan 1.8s linear infinite; }
 @keyframes scan { 0% { top: 0; } 100% { top: 100%; } }
 .face-guide { position: absolute; inset: 10% 20%; border: 2px solid rgba(255,255,255,0.75); border-radius: 50% 50% 46% 46% / 55% 55% 45% 45%; pointer-events: none; }

@@ -1,0 +1,50 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+4%",
+  "scenes": [
+    {
+      "id": "intro",
+      "text": "Every skincare review ends with: it worked for me. None of them say whose skin \"me\" is. A five-star review from oily, acne-prone skin tells dry, sensitive skin nothing. SameSkin fixes that with one selfie and the YouCam Skin AI API."
+    },
+    {
+      "id": "home",
+      "text": "The idea: scan your skin once, find reviewers whose skin measures like yours, and re-rank the whole store around them."
+    },
+    {
+      "id": "scan",
+      "text": "I upload a selfie and SameSkin calls YouCam AI Skin Analysis, HD tier, live. In about ten seconds it returns fifteen concern scores: redness, oil, pores, texture, fine lines and more, plus skin type, skin age, and region sub-scores. The photo is scored and discarded. Only these numbers are kept."
+    },
+    {
+      "id": "masks",
+      "text": "YouCam also returns a detection mask for every concern, so the shopper can see exactly where the pores, the redness or the fine lines were found."
+    },
+    {
+      "id": "store",
+      "text": "Now the store is ranked for skin like mine. Every product shows what my skin twins rated it next to what everyone rated it, and the products where my twins disagree with the crowd are called out at the top."
+    },
+    {
+      "id": "product",
+      "text": "On a product page, reviews are filtered to skin twins: reviewers whose skin profile matches mine on the dimensions where I actually struggle. The outcomes they reported are tallied, and a verdict agent reads their reviews and my profile and tells me, honestly, what to expect and how sure it is."
+    },
+    {
+      "id": "review",
+      "text": "When I write a review after a live scan, my skin profile travels with it. Scores only, never the image. That verified badge is what makes the matching better with every review."
+    },
+    {
+      "id": "vto",
+      "text": "For makeup, YouCam Makeup Virtual Try-On renders the shade on the selfie I just scanned. One API call, one unit."
+    },
+    {
+      "id": "contrast",
+      "text": "Here is the whole pitch on one screen. The same cleanser, for oily skin: loved, four point six stars. For dry, sensitive skin: disliked, two point nine, with stinging and dryness reported. The blended rating is four point zero, and it tells neither of them anything."
+    },
+    {
+      "id": "brand",
+      "text": "For brands, one star rating becomes six audiences. Every review carries a skin profile, so a rating can be split by who gave it. Seven of these fourteen products have a gap of one and a half stars or more between skin groups. That is not a bad product. It is a great product being sold to the wrong people."
+    },
+    {
+      "id": "outro",
+      "text": "SameSkin. Built on YouCam AI Skin Analysis and Makeup Virtual Try-On, with a unit-tested matching engine and a demo mode that runs without a key. The code is on GitHub. Thank you."
+    }
+  ]
+}

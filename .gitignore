@@ -4,3 +4,8 @@ dist
 data/runtime/
 *.log
 .DS_Store
+docs/video/frames/
+docs/video/*.ffconcat
+docs/video/frames.json
+docs/video/*.mp4
+docs/video/audio/

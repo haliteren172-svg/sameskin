@@ -47,6 +47,8 @@ export function StateProvider({ children }: { children: ReactNode }) {
   // Re-validate the stored profile against the server (it may have been deleted / server restarted).
   useEffect(() => {
     if (!profile) return;
+    // A persona deep link replaces the profile; don't let this re-validation race it.
+    if (new URLSearchParams(window.location.search).get("persona")) return;
     api
       .profile(profile.id)
       .then((r) => {

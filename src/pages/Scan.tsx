@@ -297,8 +297,17 @@ export default function Scan() {
               <h3>Detection map</h3>
               {preview ? (
                 <>
-                  <div className="preview" style={{ aspectRatio: "3/4" }}>
-                    <img src={maskUrl ?? preview} alt="Analysed selfie" />
+                  <div className="preview" style={{ aspectRatio: "3/4", background: "#fff" }}>
+                    <img src={preview} alt="Analysed selfie" />
+                    {maskUrl && (
+                      <img
+                        key={maskUrl}
+                        className="overlay fade-in"
+                        src={maskUrl}
+                        alt={`${maskConcern ? CONCERN_LABELS[maskConcern] : ""} detection mask`}
+                        style={{ mixBlendMode: "multiply" }}
+                      />
+                    )}
                   </div>
                   {profile.masks && Object.keys(profile.masks).length > 0 ? (
                     <div className="chips">
